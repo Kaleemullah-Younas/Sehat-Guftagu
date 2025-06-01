@@ -101,11 +101,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📺 Demo & Presentation LINKS
-
-[Watch the demo video here!](https://www.youtube.com/watch?v=your_demo_video_link)
-
-[View the presentation here!](SEHAT_GUFTAGU_PRESENTATION.pptx)
+## 📺 Demo Youtube Video link 
+[YOUTUBE LINK!](https://youtu.be/PiPIYYqmuAo)
 
 ## 📄 License
 
